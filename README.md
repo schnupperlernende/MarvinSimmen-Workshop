@@ -7,3 +7,4 @@
 7. Setting up server blocks
 8. Probleme finden mit -t, Befehl
 9. Container vs. virtuelle Maschinen
+10. Kleinste Rechtschreibfehler oder mangelnde/überflüssige Abstände können zum Fehler des ganzes Organismus führen

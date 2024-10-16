@@ -14,3 +14,4 @@
 13. Begriffe wie Image oder Nextcloud kennengelernt
 14. Docker installiert und gestartet
 15. (Englisch ist ein Must beim programmieren)
+16. Lösung für Bash Task: AP

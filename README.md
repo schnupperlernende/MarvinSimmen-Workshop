@@ -39,4 +39,5 @@ Die Sprachen (Befehle usw.) unterscheiden sich dafür grundlegend. Wenn man aber
 Je nach Anwendung des Programmierens, eignen sich gewisse Sprachen unterschiedlich gut.
 Ruby ist z.B. sehr gut geeignet für Webpublikationsentwicklung und ist sehr objektorientiert.
 Als zweites haben wir uns die Sprache Python angeschaut. Mit der haben wir durch eine Karte mit ein paar einfachen Befehlen einen Pfeil auf einer Karte zum Ziel geführt.
+[alt-text](Solution 1 Marvin.png)
 Python ist eine sehr umfangreiche und sehr beliebte Programmiersprache.

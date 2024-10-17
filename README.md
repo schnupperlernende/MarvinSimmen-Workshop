@@ -1,5 +1,5 @@
 # MarvinSimmen-Workshop
-Tag 1:
+## Tag 1:
 Datei erstellt
 Befehle kennengelernt: add, commit, status...
 

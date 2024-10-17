@@ -1,8 +1,8 @@
 # MarvinSimmen-Workshop
 ## Tag 1:
+
 Datei erstellt
 Befehle kennengelernt: add, commit, status...
-
 Kürzel auf der Tastatur gelernt: ctrl+x oder y/n oder ctrl+s
 Mit RaspberryPi verbunden
 Nginx updated + installiert
@@ -16,7 +16,9 @@ Physische Hardware-> Host-Betriebssystem->Hypervisor->Gast-system(Virtuelle MAsc
 Begriffe wie Image oder Nextcloud kennengelerntg.
 Docker installiert und gestartet
 (Englisch ist ein Must beim programmieren)
-Tag 2:
+
+## Tag 2:
+
 Lösung für Bash Task: APTENODYTES PATACONICUS
 Zahlreiche neue Funktionen von Terminal zusammen mit Bash kennengelernt.
 Speziell im Zusammenhang mit Files. Z.B. wie man Zips öffnet, oder bearbeitet oder überhaupt zum Bearbeiten zur Verfügung stellt.
@@ -29,7 +31,9 @@ Bei der Arbeit muss man stets Ordnung und den Fokus bewahren, weil der kleinste 
 Darum wird die Arbeit stets parallel dokumentiert.
 Dies hat den Vorteil, dass man am nächsten Tag noch weiss, was man alles gemacht hat, oder wenn jemand anderes daran weiterarbeitet, kann er schnell auf den aktuellen Stand gebracht werden.
 Am Morgen gibt es jeweils Meetings mit den Arbeitspartnern, in denen der aktuelle Stand vermittelt wird und bei allfälligen Problemen gemeinsam nach Lösungen gesucht.
-Tag 3:
+
+## Tag 3:
+
 Kleine Einführung in die Programmiersprache Ruby. Konzept ist bei allen Programmiersprachen ähnlich (Ein Rezept, dass ein Resultat hervorbringt)
 Die Sprachen (Befehle usw.) unterscheiden sich dafür grundlegend. Wenn man aber eine Programmiersprache kann, dann kann man auch alle anderen besser nachvollziehen.
 Je nach Anwendung des Programmierens, eignen sich gewisse Sprachen unterschiedlich gut.

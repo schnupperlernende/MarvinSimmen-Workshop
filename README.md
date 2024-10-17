@@ -2,6 +2,7 @@
 Tag 1:
 Datei erstellt
 Befehle kennengelernt: add, commit, status...
+
 Kürzel auf der Tastatur gelernt: ctrl+x oder y/n oder ctrl+s
 Mit RaspberryPi verbunden
 Nginx updated + installiert
